@@ -1,0 +1,274 @@
+body{
+    text-align: center;
+}
+img{
+    width:900px;
+    height: auto;
+}
+.logo{
+    width: 200px;
+    text-align: left;
+    margin-right: 1500px;
+}
+.carousel-content{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.sliding{
+    background: #ff3333;
+}
+.itanaryimagesstart{
+    width: 450px;
+    height: 300px;
+}
+.HG-written{
+    color: white;
+}
+.jaipur{
+    font-size: 40px;
+    color: firebrick; 
+    text-decoration: underline;
+} 
+.about-us-text{
+    background-color:#ff751a ;
+}
+.text-destination{
+    font-size: 90px;
+    background-color: lightblue;
+}
+.delhi-photos{
+    width: 100%;
+}
+.inform-delhi{
+    font-size: 27px;
+    color: black;
+}
+.plane-logo{
+    width: 300px;
+    text-align: right;
+    float: left
+}
+.car-logo{
+    width: 300px;
+    text-align: right;
+ float: right;
+}
+.days{
+    font-weight:800;
+}
+.delhi-written{
+    font-size: 50px;
+    color: firebrick;
+    margin-top: 100px;
+    background-color:#00ff00;
+     border-top: dashed;
+    border-top-color:#0066ff;
+    border-bottom: dashed;
+    border-bottom-color: #0066ff;
+    border-left: dashed;
+    border-left-color: #0066ff;
+    border-right: dashed;
+    border-right-color: #0066ff;
+    border-radius:100%
+}
+.home{
+    background-color: #66ff66;
+    font-family:fantasy;
+    font-weight: 500px;
+}
+.text-destination{
+    color: darkblue;
+}
+.delhi-food{
+    width: 700px;
+    height: 550px;
+    border-radius: 15px;
+}
+.map-of-delhi{
+    height:600px;
+}
+.hr{
+    width: 100%;
+    height: 40px;
+    background-color:#000000;
+    margin: 40px auto;
+}
+.inform-jaipur{
+    margin-bottom: 50px;
+}
+.jaipur-food{
+    width: 650px;
+   border-radius: 10px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    height: 600px;
+}
+.jaipur-dresses{
+    width: 650px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    height: 550px;
+}
+.jaipur-monument{
+    width: 750px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    height: 550px;
+}
+.jaipur-written{
+    font-size: 50px;
+    text-decoration: underline;
+    color:firebrick;
+    background-color: #ffd11a;
+    border-radius:100%;
+    border-top: dashed;
+    border-top-color: #00b33c;
+    border-bottom: dashed;
+    border-bottom-color: #00b33c;
+    border-left-style: double;
+    border-right-style: double;
+}
+.map-of-jaipur{
+    width:800px;
+    height: 700px;
+}
+.agra-written{
+    font-size: 50px;
+    text-decoration: underline;
+    color:firebrick;
+    background-color:greenyellow;
+    border-radius:100%;
+    border-top: dashed;
+    border-top-color: #ff8000;
+    border-bottom: dashed;
+    border-bottom-color: #ff8000;
+    border-left-style: double;
+    border-right-style: double;
+}
+.agra-monument{
+     width: 750px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    height: 550px;
+}
+.inform-agra{
+    font-size: 27px;
+    color: black;
+    margin-bottom: 50px;
+}
+.agra-food{
+    width: 650px;
+   border-radius: 10px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    height: 600px;
+}
+.br{
+    width: 100%;
+    height: 40px;
+    background-color:#000000;
+    margin: 40px auto;
+}
+.jodhpur-written{
+    font-size: 50px;
+    text-decoration: underline;
+    color:firebrick;
+    background-color:greenyellow;
+    border-radius:100%;
+    border-top: dashed;
+    border-top-color: #ff8000;
+    border-bottom: dashed;
+    border-bottom-color: #ff8000;
+    border-left-style: double;
+    border-right-style: double;
+}
+.jodhpur-monument{
+     width: 750px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    height: 550px;
+}
+.jodhpur-food{
+    margin-left: 30px; 
+    margin-right: 30px;
+    width: 700px;
+   border-radius: 10px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    height: 600px;
+}
+.jodhpur-dress{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 450px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    height: 550px;
+}
+.destination{
+    background: #33ccff;
+}
+.menu{
+    text-align: center;
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+.my-photo{
+    width: 400px;
+    height:525px;
+    border-radius: 100%
+}
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family:italic;
+    font-weight: 300;
+}
+marquee{
+    background-color:#0099ff;
+    font-size: 20px;
+    color:#ffffff;
+}
+marquee:hover{
+    color:white;
+    background-color:#ff00ff;
+}
+btn btn-success{
+    font-size: 25px;
+}
+.links:hover{    
+    font-size: 25px;
+    border-radius: 20px;
+    text-decoration:underline;
+    background-color: cornflowerblue;
+    color: white;
+}
+.line {
+    height: 6px;
+    background-color:#ff8533;
+    width: 90px;
+    margin: 8px auto;
+}
+.btn btn-success{
+    font-size: 25px;
+}
+.submit{
+    font-size: 25px;
+}
+input{
+    width: 200px;
+    height: 35px;
+    font-size: 25px;
+}
+span{
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+          
